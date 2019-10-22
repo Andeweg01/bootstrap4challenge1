@@ -5,3 +5,5 @@ bootstrap4 challenge 1 - table
 Sascha Andeweg - October 21, 2019
 
 A challenge to insert a table into a previously built html page. The table html code was taken from Bootstrap.
+
+Next, some Bootstrap Core Components are added.
