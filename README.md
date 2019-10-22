@@ -6,4 +6,6 @@ Sascha Andeweg - October 21, 2019
 
 A challenge to insert a table into a previously built html page. The table html code was taken from Bootstrap.
 
+The grid is added from bootstrap.
+
 Next, some Bootstrap Core Components are added.
