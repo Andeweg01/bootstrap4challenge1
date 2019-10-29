@@ -2,9 +2,26 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.container-fluid {
+    top: 0;
+    left: 0;
+    padding: 0px;
+}
+
+.alert {
+    top: 0;
+    left: 0;
+}
+
 .alert-container-fluid {
     top: 0;
     left: 0;
+}
+
+.callout {
+    top: 0;
+    left: 0;
+    width: 100%
 }
 
 .callout-container-fluid {
