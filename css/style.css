@@ -2,15 +2,31 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.alert-container {}
+.alert-container-fluid {
+    top: 0;
+    left: 0;
+}
 
-.callout-container {
+.callout-container-fluid {
     height: 100vh;
     background: url("../images/Talisker2.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+.jumbotron-fluid {
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4)
+}
+
+.callout-container-fluid .jumbotron-fluid {
+    color: white;
+    padding: 15px;
 }
 
 .quotes-container {}
